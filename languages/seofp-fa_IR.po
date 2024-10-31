@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SEO Friendly Pagination\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-29 11:48+0000\n"
+"PO-Revision-Date: 2020-06-29 11:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#: pagination-seo-friendly.php:92 pagination-seo-friendly.php:129
+msgid "Next Page"
+msgstr "صفحه بعد"
+
+#: pagination-seo-friendly.php:98 pagination-seo-friendly.php:133
+msgid "Last Page"
+msgstr "آخرین صفحه"
+
+#: pagination-seo-friendly.php:113
+msgid "First Page"
+msgstr "صفحه نخست"
+
+#: pagination-seo-friendly.php:117
+msgid "Previous Page"
+msgstr "صفحه قبل"
+
+#. Name of the plugin
+msgid "SEO Friendly Pagination"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Lightweight SEO Friendly Pagination Plugin, if your theme use wp_pagenavi "
+"plugin for Pagination just deactivate it, this plugin will override "
+"wp_pagenavi() function. otherwise you should contact your theme developer to "
+"change it on your theme."
+msgstr ""
+"اگر قالب شما از افزونه wp pagenavi استفاده میکند آن را غیرفعال کنید، این "
+"افزونه بصورت خودکار جای آن را خواهد گرفت. در غیر این صورت و عدم استفاده قالب "
+"شما از افزونه wp pagenavi، با توسعه دهنده قالب خود تماس گرفته و از او "
+"بخواهید جایگذاری را انجام دهد."
+
+#. URI of the plugin
+msgid "https://gitlab.com/sadeghisalar/seo-friendly-pagination-wp/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Salar Sadeghi"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://salars.xyz"
+msgstr ""
